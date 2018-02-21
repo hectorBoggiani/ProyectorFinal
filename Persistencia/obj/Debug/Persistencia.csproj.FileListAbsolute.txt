@@ -1,0 +1,14 @@
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\MasterPageLogin\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\SistemaReservas\Persistencia\obj\Debug\Persistencia.pdb
